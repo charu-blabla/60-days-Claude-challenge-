@@ -9,3 +9,11 @@ I'm doing a 60-day AI challenge to learn:
 - Better research skills
 
 My goal is to explore AI consistently and document my progress.# 60-days-Claude-challenge-
+
+## Day 1
+- Created an AI Personality Profile using Claude.
+- Learned about my strengths, weaknesses, and learning style.
+- Set up my GitHub repository.
+
+### Key Takeaway
+Curiosity is one of my biggest strengths, but I need to focus more on turning learning into projects.
