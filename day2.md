@@ -1,6 +1,6 @@
-##Day 2 - Prompt Engineering
+## Day 2 - Prompt Engineering
 
-Overview
+## Overview
 
 Today I learned about Prompt Engineering and why it is one of the most important skills when working with AI tools like Claude. Prompt Engineering is the process of writing clear and detailed instructions that help AI understand exactly what output is expected.
 
@@ -10,7 +10,7 @@ As part of today's challenge, I used Claude to generate educational content and 
 
 ---
 
-What I Worked On
+## What I Worked On
 
 Task 1: Learning Prompt Engineering
 
@@ -39,7 +39,7 @@ The graphics included:
 
 ---
 
-Key Learnings
+## Key Learnings
 
 1. AI Performs Better With Clear Instructions
 
@@ -63,7 +63,7 @@ Learning how to communicate effectively with AI is becoming an essential product
 
 ---
 
-Prompts Used
+## Prompts Used
 
 Content Generation Prompt
 
@@ -102,7 +102,7 @@ Output Format:
 
 ---
 
-Image Generation Prompt
+## Image Generation Prompt
 
 Create a square LinkedIn carousel-style graphic (1080×1080 pixels).
 
@@ -152,7 +152,7 @@ Professional LinkedIn-style typography and premium business aesthetic.
 
 ---
 
-Deliverables
+## Deliverables
 
 - Learned Prompt Engineering fundamentals
 - Created educational content about Prompt Engineering
@@ -162,6 +162,6 @@ Deliverables
 
 ---
 
-Reflection
+## Reflection
 
 Today's lesson showed me that AI results depend heavily on the quality of instructions provided. Prompt Engineering is not just about asking questions—it is about communicating clearly with AI systems. Small improvements in prompt design can lead to significantly better outputs, making AI more useful for learning, productivity, content creation, and problem-solving.
