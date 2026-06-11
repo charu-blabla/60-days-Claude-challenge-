@@ -11,13 +11,17 @@ Context helps AI understand the situation more accurately.
 Clear objectives guide the AI toward the desired outcome.
 Constraints reduce irrelevant or unwanted responses.
 Specifying an output format improves consistency.
+ ---
 Example
+
 Basic Prompt
 Explain machine learning.
+
 Structured Prompt
 You are an AI educator teaching complete beginners. Explain machine learning in simple language.
 Include real-world examples, key concepts, and common applications. Use headings and bullet points.
 The structured prompt provides more context and guidance, resulting in a more useful response.
+ --
 ## Benefits of Structured Prompting
 Improves response quality.
 Reduces ambiguity.
