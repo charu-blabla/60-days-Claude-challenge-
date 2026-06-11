@@ -1,17 +1,17 @@
-## Day 4 – Prompting Frameworks & Structured Thinking
-What I Learned
+# Day 4 – Prompting Frameworks & Structured Thinking
+## What I Learned
 Today I explored how structured prompting frameworks can improve the quality of AI responses.
 Instead of writing random prompts, I learned that effective prompts often follow a clear structure 
 that provides context, objectives, constraints, and desired outputs. A structured approach helps
 AI better understand the task and generate more accurate and useful responses.
-  ---
+  
 ## Key Takeaways
 - Well-structured prompts produce better results than vague prompts.
 - Context helps AI understand the situation more accurately.
 - Clear objectives guide the AI toward the desired outcome.
 - Constraints reduce irrelevant or unwanted responses.
 - Specifying an output format improves consistency.
- ---
+ 
 ## Example
 
 ### Basic Prompt
@@ -21,7 +21,7 @@ Explain machine learning.
 You are an AI educator teaching complete beginners. Explain machine learning in simple language.
 Include real-world examples, key concepts, and common applications. Use headings and bullet points.
 The structured prompt provides more context and guidance, resulting in a more useful response.
- --
+ 
 ## Benefits of Structured Prompting
 - Improves response quality.
 - Reduces ambiguity.
