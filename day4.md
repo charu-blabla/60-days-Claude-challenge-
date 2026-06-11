@@ -6,28 +6,28 @@ that provides context, objectives, constraints, and desired outputs. A structure
 AI better understand the task and generate more accurate and useful responses.
   ---
 ## Key Takeaways
-Well-structured prompts produce better results than vague prompts.
-Context helps AI understand the situation more accurately.
-Clear objectives guide the AI toward the desired outcome.
-Constraints reduce irrelevant or unwanted responses.
-Specifying an output format improves consistency.
+- Well-structured prompts produce better results than vague prompts.
+- Context helps AI understand the situation more accurately.
+- Clear objectives guide the AI toward the desired outcome.
+- Constraints reduce irrelevant or unwanted responses.
+- Specifying an output format improves consistency.
  ---
-Example
+## Example
 
-Basic Prompt
+### Basic Prompt
 Explain machine learning.
 
-Structured Prompt
+### Structured Prompt
 You are an AI educator teaching complete beginners. Explain machine learning in simple language.
 Include real-world examples, key concepts, and common applications. Use headings and bullet points.
 The structured prompt provides more context and guidance, resulting in a more useful response.
  --
 ## Benefits of Structured Prompting
-Improves response quality.
-Reduces ambiguity.
-Generates more consistent outputs.
-Saves time by requiring fewer revisions.
+- Improves response quality.
+- Reduces ambiguity.
+- Generates more consistent outputs.
+- Saves time by requiring fewer revisions.
 ## Reflection
 Today's lesson showed me that prompt quality directly affects output quality. 
-By using structured frameworks and clear instructions, I can consistently get better results from AI tools. :::
-That should fit nicely with your Day 1–3 learning repo and show progression from basic prompting concepts toward more advanced prompt design. 
+By using structured frameworks and clear instructions, I can consistently get better results from AI tools. 
+
