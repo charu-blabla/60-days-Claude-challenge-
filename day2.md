@@ -1,4 +1,4 @@
-## Day 2 - Prompt Engineering
+# Day 2 - Prompt Engineering
 
 ## Overview
 
