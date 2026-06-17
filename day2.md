@@ -67,3 +67,5 @@ Learning how to communicate effectively with AI is becoming an essential product
 ## Reflection
 
 Today's lesson showed me that AI results depend heavily on the quality of instructions provided. Prompt Engineering is not just about asking questions—it is about communicating clearly with AI systems. Small improvements in prompt design can lead to significantly better outputs, making AI more useful for learning, productivity, content creation, and problem-solving.
+
+### project link: https://claude.ai/public/artifacts/4fa729dd-cb1c-40e3-bdcb-668a5330d22b
