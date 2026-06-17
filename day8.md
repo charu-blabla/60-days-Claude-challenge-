@@ -34,3 +34,5 @@ This project demonstrated that AI can do much more than generate
 text—it can help create practical, interactive tools. Building and testing 
 a dashboard gave me a better understanding of how prompt engineering can be 
 applied to real-world application development.
+
+### project link:https://claude.ai/public/artifacts/acb61fc6-32b9-4558-b17c-ccb24ae84c6f
