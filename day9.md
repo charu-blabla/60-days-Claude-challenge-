@@ -23,5 +23,6 @@ the quality and capabilities of an AI-generated application. It reinforced the i
 ## project links
 
 ### base model:https://claude.ai/public/artifacts/fff55a41-a516-44d4-8c1e-fb37f97a4503
+### enhanced model:http://127.0.0.1:5500/nutrisocpe.html
 
 
