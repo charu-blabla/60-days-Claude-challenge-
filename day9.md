@@ -19,3 +19,9 @@ with additional features—demonstrating the impact of iterative prompting and A
 
 Building and enhancing NutriScope showed how refining prompts can significantly improve
 the quality and capabilities of an AI-generated application. It reinforced the importance of iteration in both development and prompt design.
+
+## project links
+
+### base model:https://claude.ai/public/artifacts/fff55a41-a516-44d4-8c1e-fb37f97a4503
+
+
