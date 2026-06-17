@@ -38,3 +38,7 @@ Each role approaches the problem differently and offers unique recommendations.
 ## Reflection
 
 A small change in how a prompt is written can significantly improve the quality of AI-generated responses. Role-Based Prompting is a simple but powerful technique that helps AI think from the perspective most relevant to the task.
+
+### project link:<img width="670" height="822" alt="image" src="https://github.com/user-attachments/assets/5dcd0be2-c1d7-435e-987d-eb2886c3a78b" /> ,<img width="677" height="820" alt="image" src="https://github.com/user-attachments/assets/692b6856-eb2e-4c92-8930-d64521251308" />, <img width="714" height="799" alt="image" src="https://github.com/user-attachments/assets/32a3ea80-bb20-4c29-9c83-617cf975be95" />
+
+
