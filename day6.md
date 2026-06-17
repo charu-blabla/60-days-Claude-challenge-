@@ -39,3 +39,6 @@ Successfully generated an ATS-friendly resume with improved structure, readabili
 
 Today I learned how ATS systems analyze resumes and why formatting and keywords matter. 
 Using AI helped me identify areas for improvement and create a more professional, ATS-friendly resume.
+
+### project link:<img width="580" height="586" alt="image" src="https://github.com/user-attachments/assets/cbaeb0f5-3e99-4d3f-8952-ab3f1fbf6f86" />
+
