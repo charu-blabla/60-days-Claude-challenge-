@@ -25,3 +25,7 @@ Context plays a crucial role in prompt engineering. The more relevant informatio
 
 ## Reflection
 Context Engineering helps transform AI outputs from generic responses into personalized and goal-oriented solutions.
+
+### prompt1 output:<img width="673" height="408" alt="image" src="https://github.com/user-attachments/assets/05d528e7-7fe1-4589-932c-1f9bb22ff7bd" />
+### prompt2 output:<img width="673" height="411" alt="image" src="https://github.com/user-attachments/assets/f2658c9a-b6ec-408a-adf5-af5cf633bb35" />
+
