@@ -31,3 +31,5 @@ The structured prompt provides more context and guidance, resulting in a more us
 Today's lesson showed me that prompt quality directly affects output quality. 
 By using structured frameworks and clear instructions, I can consistently get better results from AI tools. 
 
+ ### project photo:<img width="680" height="610" alt="image" src="https://github.com/user-attachments/assets/7b2b658d-f7e0-41a1-a895-25a8f9823d44" />
+
