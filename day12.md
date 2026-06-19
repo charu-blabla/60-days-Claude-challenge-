@@ -37,3 +37,5 @@ Presenting those skills effectively through a well-optimized resume and
 professional profile is equally important for career growth.
 
 ### updated resume:
+<img width="480" height="684" alt="image" src="https://github.com/user-attachments/assets/79607994-bc79-4d1e-960e-1ef94435d88f" />
+
