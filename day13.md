@@ -9,8 +9,8 @@ define job search criteria, and use AI to discover relevant job opportunities.
 - Understanding AI-assisted job searching
 - Creating structured professional profiles
 - Defining effective job search filters
-= Exploring skill-gap analysis and market insights
-= Evaluating job opportunities using match scores
+- Exploring skill-gap analysis and market insights
+- Evaluating job opportunities using match scores
 
 ## Benefits:
 
