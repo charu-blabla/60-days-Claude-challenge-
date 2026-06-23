@@ -1,4 +1,4 @@
-# Day 15 – Building a Custom Stock Research Skill in Claude
+# Day 16 – Building a Custom Stock Research Skill in Claude
 
 ## Overview:
 Created a custom Claude Skill for stock fundamental analysis and company comparison. 
