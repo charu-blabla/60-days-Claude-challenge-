@@ -24,3 +24,4 @@ A well-designed custom skill can save time, maintain consistency, and
 make it easier to process information across different projects and use cases.
 
 ### result link:
+[quarterly_growth_strategy_meeting_notes.html](https://github.com/user-attachments/files/29326994/quarterly_growth_strategy_meeting_notes.html)
