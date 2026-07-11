@@ -16,4 +16,4 @@ Build an interactive Marketing Detective HTML application using Claude.
 
 Successfully completed the Marketing Detective application and documented the project in GitHub as part of the ABTalks 60-Day Claude AI Mastery Challenge.
 
-### project link:file:///C:/Users/DELL/Downloads/marketing-detective.html
+### project [link:file:///C:/Users/DELL/Downloads/marketing-detective.html](http://127.0.0.1:5500/cup/detective.html)
