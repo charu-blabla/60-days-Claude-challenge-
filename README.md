@@ -32,7 +32,7 @@ Welcome to my 60 days of Claude Challenge
 - day 17 : complete__________| day 37 : complete
 - day 18 : complete__________| day 38 : complete
 - day 19 : complete__________| day 39 : complete
-- day 20 : complete
+- day 20 : complete__________| day 40 : complete
 
 ----
 ### thanks for visiting this repository <3
