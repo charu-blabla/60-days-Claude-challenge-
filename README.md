@@ -13,7 +13,7 @@ Welcome to my 60 days of Claude Challenge
 - learning to claude to its proficiency
 
 ## progress:
-- day 1 : complete __________| day 21 : complete
+- day 1 : complete___________| day 21 : complete___________| day 41 : complete
 - day 2 : complete___________| day 22 : complete
 - day 3 : complete___________| day 23 : complete
 - day 4 : complete___________| day 24 : complete
