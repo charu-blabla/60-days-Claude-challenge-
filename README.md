@@ -14,7 +14,7 @@ Welcome to my 60 days of Claude Challenge
 
 ## progress:
 - day 1 : complete___________| day 21 : complete___________| day 41 : complete
-- day 2 : complete___________| day 22 : complete
+- day 2 : complete___________| day 22 : complete___________| day 42 : complete
 - day 3 : complete___________| day 23 : complete
 - day 4 : complete___________| day 24 : complete
 - day 5 : complete___________| day 25 : complete
