@@ -18,7 +18,7 @@ Welcome to my 60 days of Claude Challenge
 - day 3 : complete___________| day 23 : complete___________| day 43 : complete
 - day 4 : complete___________| day 24 : complete___________| day 44 : complete
 - day 5 : complete___________| day 25 : complete___________| day 45 : complete
-- day 6 : complete___________| day 26 : complete
+- day 6 : complete___________| day 26 : complete___________| day 46 : complete
 - day 7 : complete___________| day 27 : complete
 - day 8 : complete___________| day 28 : complete
 - day 9 : complete___________| day 29 : complete
