@@ -12,6 +12,7 @@ Welcome to my 60 days of Claude Challenge
 - Staying consistant
 - learning to claude to its proficiency
 
+## Progress: 
 | Day | Status |  | Day | Status | | Day | Status |
 |---|---|---|---|---|---|---|---|
 | day 1 | complete | |day 21 | complete || day 41 | complete |
