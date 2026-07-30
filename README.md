@@ -10,7 +10,7 @@ Welcome to my 60 days of Claude Challenge
 
 ## goals:
 - Staying consistant
-- learning to claude to its proficiency
+- learning to use claude to its proficiency
 
 ## Progress: 
 | Day | Status |  | Day | Status | | Day | Status |
