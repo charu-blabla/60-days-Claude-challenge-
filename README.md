@@ -29,7 +29,7 @@ Welcome to my 60 days of Claude Challenge
 | day 12 | complete | |day 32 | complete || day 52 | complete |
 | day 13 | complete | |day 33 | complete || day 53 | complete |
 | day 14 | complete | |day 34 | complete || day 54 | complete |
-| day 15 | complete | |day 35 | complete
+| day 15 | complete | |day 35 | complete || day 55 | complete |
 | day 16 | complete | |day 36 | complete
 | day 17 | complete | |day 37 | complete
 | day 18 | complete | |day 38 | complete
