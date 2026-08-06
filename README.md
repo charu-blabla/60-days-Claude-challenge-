@@ -34,7 +34,7 @@ Welcome to my 60 days of Claude Challenge
 | day 17 | complete | |day 37 | complete || day 57 | complete |
 | day 18 | complete | |day 38 | complete || day 58 | complete |
 | day 19 | complete | |day 39 | complete || day 59 | complete |
-| day 20 | complete | |day 40 | complete
+| day 20 | complete | |day 40 | complete || day 60 | complete |
 
 ----
 ### thanks for visiting this repository <3
